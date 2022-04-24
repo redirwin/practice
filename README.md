@@ -1,1 +1,3 @@
-# practice
+# Practice
+
+Just practicing. Woot!
